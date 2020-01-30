@@ -41,7 +41,7 @@ The Call Pickup Manager Tool offers a Powershell based GUI for configuring and m
 
 
 **Note: There are special configuration items required in order for the SQL discovery method to work and in the case of Lync 2013 you need to configure SEFAUtil. For more details on these
-**prerequisites** visit: [http://www.myskypelab.com/2013/10/lync-2013-call-pickup-group-manager.html](http://www.myskypelab.com/2013/10/lync-2013-call-pickup-group-manager.html) **
+prerequisites visit: [http://www.myskypelab.com/2013/10/lync-2013-call-pickup-group-manager.html](http://www.myskypelab.com/2013/10/lync-2013-call-pickup-group-manager.html)**
 
 
  
