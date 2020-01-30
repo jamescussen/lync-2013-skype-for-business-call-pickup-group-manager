@@ -6,11 +6,10 @@
 The Call Pickup Manager Tool offers a Powershell based GUI for configuring and managing Call Pickup Groups within Lync 2013 and Skype for Business.
 
 
-** **
 
 
-**![Image](https://github.com/jamescussen/lync-2013-skype-for-business-call-pickup-group-manager/raw/master/callpickupgroupmanager2.00_sm.png)
-**
+![Image](https://github.com/jamescussen/lync-2013-skype-for-business-call-pickup-group-manager/raw/master/callpickupgroupmanager2.00_sm.png)
+
 
 
 **Features of Lync 2013 / Skype for Business Call Pickup Manager:**
