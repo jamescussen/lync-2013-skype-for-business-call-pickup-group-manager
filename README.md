@@ -139,7 +139,7 @@ prerequisites visit: [http://www.myskypelab.com/2013/10/lync-2013-call-pickup-g
 **For all information on of operation of this tool please visit this link:** 
 
 
-[http://www.myskypelab.com/2013/10/lync-2013-call-pickup-group-manager.html](http://www.myskypelab.com/2013/10/lync-2013-call-pickup-group-manager.html)
+[http://www.myteamslab.com/2013/10/lync-2013-call-pickup-group-manager.html](http://www.myteamslab.com/2013/10/lync-2013-call-pickup-group-manager.html)
 
 
         
