@@ -1847,7 +1847,7 @@ function LoadGroups
 							[string]$CPGNumber = $splitCallParkList.Substring($start+17,$end-$start-17)
 							
 											
-							$UserPool = Get-CsPool | Where-Object {$_.Computers –contains $computer} | select-object Identity
+							$UserPool = Get-CsPool | Where-Object {$_.Computers Â–contains $computer} | select-object Identity
 							$UserPoolIdentity = $UserPool.Identity
 							
 							$GroupSipAddress = $SipAddress
